@@ -36,7 +36,22 @@ body{
     width: 253.33px;
     
 }
+.ava-1,
+.ava-2,
+.ava-3,
+.ava-4,
+.ava-5,
+.ava-6,
+.ava-7,
+.ava-8,
+.ava-9{
+    border-radius: 100%;
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+}
 .img{
+    position: relative;
     border-radius: 26px;
     height: 303.98px;
     width: 253.33px;
@@ -80,7 +95,6 @@ body{
     .grid-item-5,
     .grid-item-6{
         width: 174.67px;
-        height: auto;
     }
     .grid-item-5,
     .grid-item-6{
